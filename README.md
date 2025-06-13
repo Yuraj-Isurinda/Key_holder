@@ -26,6 +26,9 @@ A **React Native** app that helps roommates track their shared room key in real-
 - **Notifications**: Expo Notifications  
 
 
+## Figma Design
+- **Link** https://www.figma.com/design/aaSM4a2QUewnd4UYqdA5oH/Untitled?node-id=1-66&t=n2oCWUMuLIfdSWHT-1
+
 
 ## 📲 Installation  
 1. Clone the repo:  
